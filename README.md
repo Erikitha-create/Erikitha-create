@@ -59,20 +59,17 @@ Sempre fui fascinada pelo mundo da tecnologia e curiosa sobre como as coisas fun
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
-  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
-  <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
-  <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
-  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
-  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
+  <!-- Adobe Photoshop --> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+  <!-- Adobe Illustrator --> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+  <!-- Adobe Premiere Pro --> <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+  <!-- Adobe After Effects --> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white">
+  <!-- Adobe InDesign --> <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
+  <!-- Canva --> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
+  <!-- CorelDRAW --> <img src="https://img.shields.io/badge/CorelDRAW-00B388?style=for-the-badge&logo=CorelDRAW&logoColor=white">
   <br>
 </div>
 
