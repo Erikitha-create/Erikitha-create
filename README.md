@@ -60,6 +60,7 @@ Sempre fui fascinada pelo mundo da tecnologia e curiosa sobre como as coisas fun
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
   <!-- IntelliJ IDEA --> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
