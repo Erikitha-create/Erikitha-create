@@ -57,6 +57,7 @@ Sempre fui fascinada pelo mundo da tecnologia e curiosa sobre como as coisas fun
 </div>
 
 ## ⭐️ Hard Skills
+  <br>
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -72,11 +73,23 @@ Sempre fui fascinada pelo mundo da tecnologia e curiosa sobre como as coisas fun
   <!-- Canva --> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
   <!-- CorelDRAW --> <img src="https://img.shields.io/badge/CorelDRAW-00B388?style=for-the-badge&logo=CorelDRAW&logoColor=white">
   <br>
+    <br>
 </div>
 
 <!-- Cards com GitHub Stats -->
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erikitha-create&theme=tokyonight&ring=ff0398&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) |
-| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Erikitha-create&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=ff0398&ring=ff0398&fire=ff0398&currStreakNum=ff0398&sideNums=ff0398&currStreakLabel=ff0398&sideLabels=ff0398&dates=ff0398)
+<!-- Primeira linha com 3 cards -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erikitha-create&theme=tokyonight&ring=ff0398&title_color=ff0398&text_color=ffffff" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff" width="32%">
+</p>
+
+<!-- Segunda linha: card maior à esquerda e menor à direita -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff" width="56%" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erikitha-create&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=ff0398&ring=ff0398&fire=ff0398&currStreakNum=ff0398&sideNums=ff0398&currStreakLabel=ff0398&sideLabels=ff0398&dates=ff0398" width="42%" style="height: 200px; object-fit: cover;">
+</p>
