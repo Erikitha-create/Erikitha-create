@@ -76,8 +76,7 @@ Sempre fui fascinada pelo mundo da tecnologia e curiosa sobre como as coisas fun
 
 <!-- Cards com GitHub Stats -->
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erikitha-create&theme=tokyonight&ring=ff0398&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erikitha-create&hide=Html&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erikitha-create&theme=tokyonight&ring=ff0398&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Erikitha-create&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=ff0398&ring=ff0398&fire=ff0398&currStreakNum=ff0398&sideNums=ff0398&currStreakLabel=ff0398&sideLabels=ff0398&dates=ff0398) |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erikitha-create&theme=tokyonight&title_color=ff0398&text_color=ffffff) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Erikitha-create&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=ff0398&ring=ff0398&fire=ff0398&currStreakNum=ff0398&sideNums=ff0398&currStreakLabel=ff0398&sideLabels=ff0398&dates=ff0398)
